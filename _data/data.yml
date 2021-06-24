@@ -74,11 +74,11 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-   - role: Appretince
-      time: 2021 Mar - 2021 Jun
-      company: BrightCoders Academy, Colima 
-      details: |
-        Within the program I participated in the development of mobile applications using React Native, Redux and Firebase with my team and generation colleagues. Among the projects, I can highlight the applications of a flight reservation, a product store and citizen complaint.
+  - role: Appretince
+    time: 2021 Mar - 2021 Jun
+    company: BrightCoders Academy, Colima 
+    details: |
+      Within the program I participated in the development of mobile applications using React Native, Redux and Firebase with my team and generation colleagues. Among the projects, I can highlight the applications of a flight reservation, a product store and citizen complaint.
 
   - role: Appretince
     time: 2020 Aug - 2021 Feb
