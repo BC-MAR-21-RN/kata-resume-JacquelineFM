@@ -64,7 +64,7 @@ educationcomplete:
     university: University of Colima
     time: 2018 Aug - Current
     details: |
-      I am currently studying software engineering at the University of Colima, where I have studied subjects such as web programming, data structures, programming fundamentals, etc.
+      I am currently studying software engineering at the University of Colima, where I have studied subjects such as web programming, apps programming, data structures, programming fundamentals, etc.
 
   - degree: Technical programmer analyst
     university: University of Colima, Bachelor No. 2
@@ -74,8 +74,14 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
+ - role: Appretince
+    time: 2021 Mar - 2021 Jun
+    company: BrightCoders Academy, Colima 
+    details: |
+      Within the program I participated in the development of mobile applications using React Native, Redux and Firebase with my team and generation colleagues. Among the projects, I can highlight the applications of a flight reservation, a product store and citizen complaint.
+
   - role: Appretince
-    time: 2020 Aug - Present
+    time: 2020 Aug - 2021 Feb
     company: BrightCoders Academy, Colima 
     details: |
       I participated in the development of the "Tribo" project, in which I developed views and features using mainly Tailwind, Ruby, Ruby on Rails and JavaScript.
@@ -130,7 +136,13 @@ skills:
       level: 60%
 
     - name: React Native
-      level: 20%
+      level: 65%
+      
+    - name: Redux
+      level: 45%
+      
+    - name: Firebase
+      level: 55%
 
     - name: GIT
       level: 60%
